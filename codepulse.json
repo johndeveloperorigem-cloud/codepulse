@@ -1,0 +1,28 @@
+[
+  {
+    "online": "589",
+    "maxonline": "1300",
+    "color": "878787",
+    "x2": "true",
+    "key": "1424",
+    "name": "Origem Roleplay | Servidor 2",
+    "firstname": "Origem Roleplay | Servidor 2",
+    "secondname": "",
+    "url": "190.102.40.7",
+    "ip": "190.102.40.7",
+    "port": "7808"
+  },
+  {
+    "online": "896",
+    "maxonline": "1300",
+    "color": "878787",
+    "x2": "true",
+    "key": "1424",
+    "name": "Origem Roleplay | Servidor 1",
+    "firstname": "Origem Roleplay | Servidor 1",
+    "secondname": "",
+    "url": "190.102.40.7",
+    "ip": "190.102.40.7",
+    "port": "7801"
+  }
+]
