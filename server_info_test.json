@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "ip": "198.50.242.103",
-        "port": 7777,
-        "marker": "Servidor 1"
+        "ip": "81.90.30.88",
+        "port": 7772,
+        "marker": "CRIME"
     },
     {
         "id": 2,
-        "ip": "198.50.242.103",
+        "ip": "81.90.30.88",
         "port": 7777,
-        "marker": "Servidor 2"
+        "marker": "GOLD"
     },
     {
         "id": 3,
-        "ip": "198.50.242.103",
-        "port": 7777,
-        "marker": "Servidor 3"
+        "ip": "81.90.30.88",
+        "port": 7774,
+        "marker": "RUBLEVKA"
     }
 ]
